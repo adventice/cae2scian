@@ -156,8 +156,7 @@ cae_id	cae_description	scian_id	scian_title_fr
 2542	Industrie des armoires et placards de cuisine et des coiffeuses de salle de bain en bois	33711	Fabrication d'armoires et de comptoirs de cuisine en bois
 2543	Industrie des portes et fenêtres en bois	321911	Fabrication de fenêtres et de portes en bois
 2544	Industrie d'éléments de charpente en bois	321215	Fabrication de produits de charpente en bois
-2512	
-Industrie des produits de scieries et d'ateliers de rabotage (sauf les bardeaux et les bardeaux fendus) 	321111	Scieries (sauf les usines de bardeaux et de bardeaux de fente)
+2512	Industrie des produits de scieries et d'ateliers de rabotage (sauf les bardeaux et les bardeaux fendus) 	321111	Scieries (sauf les usines de bardeaux et de bardeaux de fente)
 2545	Industrie des parquets en bois dur	321919	Fabrication d'autres menuiseries préfabriquées
 2549	Autres industries du bois travaillé	321999	Fabrication de tous les autres produits divers en bois
 2561	Industrie des boîtes et palettes en bois	32192	Fabrication de contenants et de palettes en bois
@@ -359,9 +358,7 @@ Industrie des produits de scieries et d'ateliers de rabotage (sauf les bardeaux 
 4227	Montage de charpentes d'acier	238120	Entrepreneurs en montage de charpentes d'acier et mise en place de béton préfabriqué
 4229	Autres travaux de charpente et travaux connexes	238130	Entrepreneurs en charpenterie
 4231	Travaux de maçonnerie	238140	Entrepreneurs en travaux de maçonnerie
-4232	Pose et réparation de revêtement	
-
-238330 	Entrepreneurs en travaux de revêtements de sol
+4232	Pose et réparation de revêtement	238330 	Entrepreneurs en travaux de revêtements de sol
 4233	Installation de la verrerie et de la vitrerie	238150	Entrepreneurs en travaux de vitrage et de vitrerie
 4234	Travaux d'isolation	238310	Entrepreneurs en installation de cloisons sèches et travaux d'isolation
 4235	Pose de bardeaux pour toits	238160	Entrepreneurs en travaux de toiture
