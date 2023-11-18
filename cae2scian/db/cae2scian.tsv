@@ -850,9 +850,10 @@ cae_id	cae_description	scian_id	scian_title_fr
 9131	Terrains de camping et parcs à roulottes	721211	Parcs pour véhicules récréatifs (VR) et campings
 9141	Pourvoyeurs de chasse et de pêche	721212	Camps de chasse et de pêche
 9149	Camps de vacances	721213	Camps récréatifs et de vacances (sauf de chasse et de pêche)
+9210	Services de restauration	722511	Restaurants à service complet
 9211	Restaurants avec permis d'alcool	722511	Restaurants à service complet
 9212	Restaurants sans permis d'alcool	722511	Restaurants à service complet
-9213	Services de mets à emporter	722511	Restaurants à service complet
+9213	Services de mets à emporter	722512	Établissements de restauration à service restreint
 9214	Traiteurs	722320	Traiteurs
 9215	Cabanes à sucre	111994	Production de sirop d'érable et d'autres produits de l'érable
 9221	Tavernes, bars et boîtes de nuit	72241	Débits de boissons alcoolisées
